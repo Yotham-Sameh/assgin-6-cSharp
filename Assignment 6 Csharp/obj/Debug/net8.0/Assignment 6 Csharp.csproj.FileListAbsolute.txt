@@ -1,0 +1,13 @@
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\bin\Debug\net8.0\Assignment 6 Csharp.exe
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\bin\Debug\net8.0\Assignment 6 Csharp.deps.json
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\bin\Debug\net8.0\Assignment 6 Csharp.runtimeconfig.json
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\bin\Debug\net8.0\Assignment 6 Csharp.dll
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\Assignment 6 Csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\Assignment 6 Csharp.AssemblyInfoInputs.cache
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\Assignment 6 Csharp.AssemblyInfo.cs
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\Assignment 6 Csharp.csproj.CoreCompileInputs.cache
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\Assignment 6 Csharp.dll
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\refint\Assignment 6 Csharp.dll
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\Assignment 6 Csharp.pdb
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\Assignment 6 Csharp.genruntimeconfig.cache
+D:\C# assigment\Assignment 6 Csharp\Assignment 6 Csharp\obj\Debug\net8.0\ref\Assignment 6 Csharp.dll
